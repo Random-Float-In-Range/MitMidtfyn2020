@@ -1,6 +1,6 @@
 # MitMidtfyn2020
 
-Den utopiske by
+Den Utopiske By
 
 Developed with Unreal Engine 4 by https://www.jensogmorten.dk/
 
